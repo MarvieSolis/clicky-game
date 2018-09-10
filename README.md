@@ -8,11 +8,11 @@
 This website utilizes **ReactJS** and **Bootstrap** to create the game's layout and functionality. Multiple componenets are used and exported into `App.js`. The `Navbar.js` component consists of the *Clicky-Game* logo, instructions, the current top score, and the user's current score. The `Header.js` component contains instructions on how to play the game as well as two images of Fortnite llamas. The `Container.js` component houses the `Clickables.js` component, which creates the multiple divs and images for each Fortnite Character to be selected. The data for each characters is grabbed from `data.json`, which is redirected to the images folder to grab the images. Lastly, the `Footer.js` component contains a link to my portfolio. 
 
 ## Screenshots
-**Top:** Shows all the articles.
-![top](https://user-images.githubusercontent.com/36168517/44650566-cf6f4100-a99b-11e8-94f0-523c5b82899c.PNG)
+**Top:** Displaying the Navbar and Header
+![top](https://user-images.githubusercontent.com/36168517/45279646-aadc9400-b486-11e8-81b3-773fc69745c8.PNG)
 
-**Clickables:** Shows information from the article with the addition of a short summary.
-![clickables](https://user-images.githubusercontent.com/36168517/44650613-e7df5b80-a99b-11e8-8459-283dc2280fc2.PNG)
+**Clickables:** Displaying the clickables
+![clickables](https://user-images.githubusercontent.com/36168517/45279647-aadc9400-b486-11e8-9a8b-00efa61101b5.PNG)
 
 
 ## Technologies Used
