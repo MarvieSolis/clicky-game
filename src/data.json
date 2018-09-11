@@ -6,57 +6,57 @@
     },
     {
       "id": 2,
-      "image": "./assets/images/dreamflower.jpg",
+      "image": "/assets/images/dreamflower.jpg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "./assets/images/enforcer.jpg",
+      "image": "/assets/images/enforcer.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "./assets/images/faroutman.jpg",
+      "image": "/assets/images/faroutman.jpg",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "./assets/images/gumshoe.jpg",
+      "image": "/assets/images/gumshoe.jpg",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "./assets/images/hime.jpg",
+      "image": "/assets/images/hime.jpg",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "./assets/images/musha.jpg",
+      "image": "/assets/images/musha.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "./assets/images/noir.jpg",
+      "image": "/assets/images/noir.jpg",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "./assets/images/sleuth.jpg",
+      "image": "/assets/images/sleuth.jpg",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "./assets/images/stageslayer.jpg",
+      "image": "/assets/images/stageslayer.jpg",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "./assets/images/triage.jpg",
+      "image": "/assets/images/triage.jpg",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "./assets/images/wildcard.jpg",
+      "image": "/assets/images/wildcard.jpg",
       "clicked": false
     }
   ]
