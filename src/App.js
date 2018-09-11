@@ -83,7 +83,6 @@ class App extends Component {
             <Clickables
               key={item.id}
               id={item.id}
-              shake={!this.state.score && this.state.topScore}
               handleClick={this.handleClickable}
               image={item.image}
             />

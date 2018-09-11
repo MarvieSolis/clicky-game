@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "./assets/images/cloakedstar.jpg",
+      "image": "/assets/images/cloakedstar.jpg",
       "clicked": false
     },
     {
