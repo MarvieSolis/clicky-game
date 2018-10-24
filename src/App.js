@@ -47,6 +47,7 @@ class App extends Component {
   };
 
   incorrectGuess = data => {
+    alert("INCORRECT, your final score is " + this.state.score);
     this.setState({
       data: this.resetData(data),
       score: 0
